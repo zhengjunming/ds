@@ -54,4 +54,4 @@
 
 ​        操作结果：销毁B树。
 
-相关博文：http://minsming.com/2018/01/25/B%E6%A0%91%E4%B9%8BC%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0/
+相关博文：https://blog.csdn.net/Zheng_junming/article/details/79165049
