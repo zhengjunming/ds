@@ -147,4 +147,4 @@ void MergeBBST(BBSTree &T1, BBSTree T2);
 void DestroyBBST(BBSTree &T);
 ```
 
-相关博文：http://minsming.com/2018/01/26/%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B9%8BC%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0/
+相关博文：https://blog.csdn.net/Zheng_junming/article/details/79171675
